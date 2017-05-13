@@ -1,0 +1,4 @@
+C:\Documents and Settings\hsnty\Desktop\Crystal Report Exporter 2.0\crexport\obj\Release\ResolveAssemblyReference.cache
+C:\Data\Projects\c#\Crystal Report Exporter 2.0\crexport\obj\Release\ResolveAssemblyReference.cache
+C:\Data\Projects\c#\Crystal Report Exporter 2.0\crexport\bin\Release\crexport.exe
+C:\Data\Projects\c#\Crystal Report Exporter 2.0\crexport\obj\Release\crexport.exe
