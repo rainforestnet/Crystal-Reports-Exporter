@@ -43,16 +43,12 @@ Version history
 1.2.1419.21168 - zlib/libpng license agreement added.
 */
 
-using System;
-using System.Reflection;
-using System.Text;
-using System.Collections;
-using System.Collections.Generic;
 using CrystalDecisions.CrystalReports.Engine;
 using CrystalDecisions.Shared;
+using System;
+using System.Collections.Generic;
 using System.IO;
-using System.Drawing;
-using System.Net.Mail;
+using System.Text;
 
 namespace Crexport
 {
