@@ -54,7 +54,7 @@ using System.IO;
 using System.Drawing;
 using System.Net.Mail;
 
-namespace crexport
+namespace Crexport
 {
 
     #region Exceptions Classes
@@ -120,7 +120,7 @@ namespace crexport
     }
     #endregion Exceptions Classes
 
-    class crexport
+    class Crexport
     {
         private static string ExePath = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
         private static string logFilename;

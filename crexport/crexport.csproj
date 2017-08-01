@@ -96,7 +96,7 @@
     <Compile Include="AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="crexport.cs">
+    <Compile Include="Crexport.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ReportInfo.cs" />
